@@ -17,10 +17,11 @@ public:
 int main()
  {
 	
-    cout << "Name: Shubhada Tarlekar\n";
+    cout << "Name: Sanafatima Bhatare\n";
     cout << "Div: B\n";
-    cout << "Roll no.: 95\n";
+    cout << "Roll no.: 92\n";
     Car obj1;
     Bus obj2;
     return 0;
 }
+
